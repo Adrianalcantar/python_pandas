@@ -40,5 +40,5 @@ df = pd.read_csv('../../sample_data/02 Introduction to pandas/intel.csv')
 ### print(df[['Open', 'Close']].head())
 
 
-
-print(df.describe())
+### Using the describe method
+### print(df.describe())
