@@ -22,7 +22,7 @@ df = pd.read_csv('../../sample_data/02 Introduction to pandas/intel.csv')
 ### print(df.head(10))
 
 
-### Inspect last roes of data
+### Inspect last rows of data
 ### print(df.tail(2))
 
 
